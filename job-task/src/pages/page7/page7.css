@@ -1,0 +1,53 @@
+.page.seven {
+  background-image: url("https://kalix.club/uploads/posts/2022-12/1671507506_kalix-club-p-krasivie-oboi-dlya-rabochego-stola-vkontak-22.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  text-align: center;
+
+  gap: 50px;
+}
+
+.bigCard {
+  background-color: rgb(255, 119, 142);
+  width: 60%;
+  height: 65%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  border-radius: 30px;
+}
+
+.sevensTitle {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.sevensDescription {
+  font-size: 30px;
+  width: 65%;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+input {
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 500px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    
+}
+
+input::placeholder {
+    color: white;
+    font-size: 20px;
+  }
+  

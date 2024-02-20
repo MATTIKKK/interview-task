@@ -1,0 +1,10 @@
+.page.one {
+    background-image: url("https://kalix.club/uploads/posts/2022-12/1671439902_kalix-club-p-krasivie-yarkie-oboi-na-rabochii-stol-pint-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    text-align: center;
+    padding: 0 10%;
+    gap: 30px;
+    z-index: -1;
+}

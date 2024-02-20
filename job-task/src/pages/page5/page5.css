@@ -1,0 +1,52 @@
+.page.five {
+  background-image: url("https://kalix.club/uploads/posts/2023-12/1703707822_kalix-club-p-krasivie-oboi-na-rabochii-stol-kosmos-foni-72.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  text-align: center;
+  gap: 50px;
+}
+
+.card {
+  background: linear-gradient(180deg, #fb4094, #845ec2);
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  color: white;
+  width: 300px;
+  margin: auto;
+  font-family: "Arial", sans-serif;
+}
+
+.header {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: 20px;
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.price-tag {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 5px;
+}
+
+.price {
+  font-size: 1.2em;
+  color: rgb(0, 0, 0);
+}
+
+.priceDescription {
+  font-size: 0.9em;
+  color: #666;
+}
+
